@@ -1,5 +1,5 @@
 # FatFs
-OS course project 
+OS course project. The course project was to create a file system editor FAT. The graphical interface was developed using the QT framework for the C ++ programming language. 
 
 
 ## External library 
